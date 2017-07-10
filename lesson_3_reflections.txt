@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
   branch is completely different.It is just facilitating the creation of commits.I would use forks in 
   place of clones in Github.
   
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  It's helpful in knowing the changes in Github repository while one is offline by updating the local copy
+  of the Github repository.
