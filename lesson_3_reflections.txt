@@ -16,3 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
   I would collaborate basically by emailing,texting,etc.On one side,it will help me in working on a lot of 
   the project on my own while on the other side,work increases and creativity decreases.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  The basic idea of using separate branches is when one wants to add a feature but at the same time 
+  wants other people to collaborate as well.Saving changes directly to master is less complicated
+  while creating separate branches helps in collaboration.
